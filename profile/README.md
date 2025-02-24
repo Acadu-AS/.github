@@ -19,4 +19,3 @@ Glad you asked! Skooler is our flagship product, designed to transform the tradi
 - **User-Friendly Interface**: So easy to use, even your grandma could master it! 🧓
 - **Interactive Features**: From quizzes to collaborative projects, we've got it all. 🎨
 - **Seamless Integration**: Works perfectly with your favorite tools and platforms. 🔗
-- **24/7 Support**: Because we know learning never stops. 📚
